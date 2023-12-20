@@ -1,0 +1,8 @@
+0 BWV
+1 RegularDG
+2 IrregularDG
+3 RegressionStructures
+4 IrregularStreaks
+5 RegularStreaks
+6 AtypicalPigmentNetwork
+7 TypicalPigmentNetwork
